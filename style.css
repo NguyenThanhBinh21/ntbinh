@@ -27,7 +27,7 @@ body {
 	margin: 0;
 	--color-text: #bd796d;
     --color-bg: #0c0c0c;
-    --color-link: #6b5537;
+    --color-link: #7a2929;
 	--color-link-hover: #fff;
 	--color-content-title-sub: #7a2929;
     color: var(--color-text);
