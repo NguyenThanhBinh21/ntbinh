@@ -25,7 +25,7 @@ main {
 
 body {
 	margin: 0;
-	--color-text: #c0260b;
+	--color-text: #bd796d;
     --color-bg: #0c0c0c;
     --color-link: #6b5537;
 	--color-link-hover: #fff;
@@ -271,6 +271,10 @@ a:focus {
 	display: block;
 	margin-left: 3vw;
 	line-height: 0.5;
+}
+.nhac {
+    margin-inline-start: 1000px;
+	margin-right: 1000px;
 }
 
 .cursor {
